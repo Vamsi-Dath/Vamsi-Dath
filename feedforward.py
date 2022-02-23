@@ -101,3 +101,4 @@ with torch.no_grad():
 
     acc = 100.0 * n_correct / n_samples
     print(f'Accuracy of the network on the 10000 test images: {acc} %')
+
