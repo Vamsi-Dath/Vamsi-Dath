@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ABOUT FEEDFORWARD.PY
 //
 
-~ Made for MedImg reasearch intership task - 3.
+~ Made for MedImg reasearch.
 
 ~ Knowledge from various sources is employed into the project. As the field is so new to work with much of the technique used was un-familiar.
 
