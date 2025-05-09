@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Web Development - MERN stack
 - 💬 Ask me about anything
 
-
+<div>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Vamsi-Dath&label=Profile%20views&color=0e75b6&style=flat" alt="Vamsi-Dath" />
     <a href="https://github.com/ellerbrock/open-source-badge/">
@@ -15,7 +15,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vamsi-Dath&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&border_radius=20" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vamsi-Dath&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&border_radius=20" alt="Top Languages" height="175"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=Vamsi-Dath&show_icons=true&locale=en&theme=dark&hide_border=true&border_radius=20" alt="GitHub Stats" height="175"/>
 </p>
+</div>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vamsi-Dath&theme=tokyonight" alt="mystreak"/>
+</div>
