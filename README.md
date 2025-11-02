@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a urban computing project
 - 🌱 Currently learning NLP & Big Data Processing Techniques
-- 👯 I’m looking to collaborate on Web Development - MERN stack
+- 👯 I’m looking to collaborate on Unstructured Data Representation and Learning in Big Data
 - 💬 Ask me about anything
 
 <div>
