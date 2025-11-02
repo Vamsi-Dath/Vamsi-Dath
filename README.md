@@ -20,6 +20,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Vamsi-Dath&show_icons=true&locale=en&theme=dark&hide_border=true&border_radius=20" alt="GitHub Stats" height="175"/>
 </p>
 </div>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vamsi-Dath&theme=tokyonight" alt="mystreak"/>
-</div>
