@@ -15,8 +15,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vamsi-Dath&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&border_radius=20" alt="Top Languages" height="175"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Vamsi-Dath&show_icons=true&locale=en&theme=dark&hide_border=true&border_radius=20" alt="GitHub Stats" height="175"/>
+  <img src="https://githubcard.com/Vamsi-Dath.svg?d=6cEtd2Yq" alt="GitHub Stats" height="auto"/>
 </p>
 </div>
