@@ -15,6 +15,6 @@
 </p>
 
 <p align="center">
-  <img src="https://githubcard.com/Vamsi-Dath.svg?d=6cEtd2Yq" alt="GitHub Stats" height="auto"/>
+  <img src="https://githubcard.com/Vamsi-Dath.svg?d=Jv0UPjgX" alt="GitHub Stats" height="auto"/>
 </p>
 </div>
